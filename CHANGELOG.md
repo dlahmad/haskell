@@ -1,11 +1,5 @@
-# Changelog
+# Revision history for haskell
 
-`GitpodTemplate` uses [PVP Versioning][1].
-The changelog is available [on GitHub][2].
+## 0.1.0.0 -- YYYY-mm-dd
 
-## 0.0.0.0
-
-* Initially created.
-
-[1]: https://pvp.haskell.org
-[2]: https://github.com/gitpod/GitpodTemplate/releases
+* First version. Released on an unsuspecting world.
