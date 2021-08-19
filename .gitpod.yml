@@ -11,3 +11,6 @@ tasks:
 vscode:
   extensions:
     - haskell.haskell
+    
+ports:
+  - port: 8080
