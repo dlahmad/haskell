@@ -13,4 +13,5 @@ vscode:
     - haskell.haskell
     
 ports:
-  - port: 8080
+  - port: 8000
+    onOpen: open-preview
