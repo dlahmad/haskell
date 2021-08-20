@@ -39,6 +39,9 @@ jobs:
     - name: Run tests
       run: cabal test all
       
+    - name: Install packages
+      run: ls
+      
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v2.2.4
       with:
